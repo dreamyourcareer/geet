@@ -1,3 +1,0 @@
-# geet
-WordPress Theme
-
